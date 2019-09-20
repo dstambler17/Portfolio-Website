@@ -17,6 +17,7 @@ let Project = {
                                 Parsy.io is a project that I've been working on for nine months.
                                 The aim of this project is to help student organize their schedules,
                                 by keeping all their Information in one organized, and easy to use calendar.
+                                I built this app with React.js for the frontend, and MySQL and Flask for the backend
                             </p>
                         </div>
                     </div>
@@ -42,7 +43,7 @@ let Project = {
 
                     <div class="project-item">
                         <div class="project-image">
-                            <a href="https://github.com/dstambler17/danban" target="_blank"> <img class="item-image elongated" src="images/danbangithub.png" alt="Danban Photo"/> </a>
+                            <a href="https://github.com/dstambler17/danban" target="_blank"> <img class="item-image" src="images/danbanpic.png" alt="Danban Photo"/> </a>
                         </div>
                         <div class="project-body">
                             <h2 class="project-title">Danban</h2>

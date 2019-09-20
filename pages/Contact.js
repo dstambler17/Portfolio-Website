@@ -46,7 +46,7 @@ let Contact = {
             let body = document.getElementById("body")
 
             const reqbody = {'email' : email.value, 'subject' : subject.value, 'body' : body.value}
-            fetch('http://127.0.0.1:5000/' + 'emailSender/newEmail', {
+            fetch('https://personal-email-site.herokuapp.com/' + 'emailSender/newEmail', {
                 method: 'POST',
                 body: JSON.stringify(reqbody),
                 headers:{

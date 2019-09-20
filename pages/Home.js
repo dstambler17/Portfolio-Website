@@ -5,7 +5,7 @@ let Home = {
                 <div class="home-main">
                     <div class="half-width">
                         <h2 class="section-title"> About Me </h2>
-                        <p>My name is Daniel Stambler. I am a Software Engineer for Boardroom Alpha,
+                        <p>My name is Daniel Stambler. I am a Software Engineer for
                         a Fintech startup in NYC. I am passionate about technology,
                         particularly full stack web development and Neural Nets. Outside of technology, I enjoy
                         biking, and going for runs.</p>

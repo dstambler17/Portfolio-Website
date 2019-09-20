@@ -232,7 +232,7 @@ textarea {
 
 @media (max-width: 517px){
     .footer{
-        position: relative;
+        position: relative!important;
     }
 }
 
