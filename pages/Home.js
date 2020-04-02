@@ -7,11 +7,11 @@ let Home = {
                         <h2 class="section-title"> About Me </h2>
                         <p>My name is Daniel Stambler. I am a Software Engineer for
                         a Fintech startup in NYC. I am passionate about technology,
-                        particularly full stack web development and Neural Nets. Outside of technology, I enjoy
+                        particularly full stack web development. Outside of technology, I enjoy
                         biking, and going for runs.</p>
                         <br/>
-                        <p><strong>Skills:</strong> Python (Flask, Django), MySQL, Regex , PHP (codeigniter), Java (Javalin),
-                         JavaScript (vanilla JS, React), C/C++</p>
+                        <p><strong>Skills:</strong> Python (Flask, Django), PostgreSQL, Regex, Rails, PHP, Java,
+                         JavaScript/Node.js (Vanilla JS, React, TypeScript), C/C++</p>
                     </div>
                     <div class="profile-pic">
                         <img height="200px" width="200px" src="images/profileMobile.jpg" alt="Photo of Me!"/>
