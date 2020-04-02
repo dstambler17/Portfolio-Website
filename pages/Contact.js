@@ -82,7 +82,7 @@ let Contact = {
         
         
         const sendEmail = () => {
-            console.log("Contact")
+            //console.log("Contact")
             const form = document.getElementById("subForm")
             form.addEventListener("submit", submitForm, true);
         }
