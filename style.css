@@ -46,6 +46,10 @@
     .half-width{
         width: 80%
     }
+
+    .profile-image {
+        margin-top: 10%;
+    }
 }
 
 
@@ -232,9 +236,15 @@ textarea {
     color: gray;
 }
 
-@media (max-width: 517px){
+@media (max-width: 700px){
     .footer{
         position: relative!important;
+    }
+}
+
+@media (max-height: 475px){
+    .footer{
+        bottom: unset;
     }
 }
 

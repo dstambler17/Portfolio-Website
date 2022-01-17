@@ -5,16 +5,16 @@ let Home = {
                 <div class="home-main">
                     <div class="half-width">
                         <h2 class="section-title"> About Me </h2>
-                        <p>My name is Daniel Stambler. I am a Software Engineer for
-                        a Fintech startup in NYC. I am passionate about technology,
-                        particularly full stack web development. Outside of technology, I enjoy
-                        biking, and going for runs.</p>
+                        <p> My name is Daniel Stambler. I am currently a graduate student at Johns Hopkins,
+                           pursuing a Masters in Science and Engineering in Computer Science with a research focus in
+                        Natural Language and Machine Translation. Before starting graduate school, I was a software engineer
+                        at TikTok.</p>
                         <br/>
-                        <p><strong>Skills:</strong> Python (Flask, Django), PostgreSQL, Regex, Rails, PHP, Java,
-                         JavaScript/Node.js (Vanilla JS, React, TypeScript), C/C++</p>
+                        <p><strong>Interests:</strong> Deep Learning, Machine Translation, Distributed Systems,
+                         Video Game Development, Language Learning</p>
                     </div>
                     <div class="profile-pic">
-                        <img height="200px" width="200px" src="images/profileMobile.jpg" alt="Photo of Me!"/>
+                        <img class="profile-image" height="200px" width="200px" src="images/profPic.jpeg" alt="Photo of Me!"/>
                     <div>
                 </div>
             </section>
